@@ -32,6 +32,6 @@ html:
   use_repository_button: true
 
 # Theme for the website
-sphinx:
-    config:
-        html_theme: quantecon_book_theme
+# sphinx:
+#     config:
+#         html_theme: quantecon_book_theme
